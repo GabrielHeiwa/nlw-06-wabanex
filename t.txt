@@ -1,0 +1,4 @@
+Gabriel,1.81,75.0
+Vinicius,1.79,73.0
+Igor,1.77,54.0
+Joelson,1.177,58.0
